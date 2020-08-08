@@ -1,3 +1,6 @@
+//Name : Himanshu Shekhar Padhi
+// CODE FOR ROUND1 OF CIPHER SCHOOLS
+
 #include<bits/stdc++.h>
 using namespace std;
 
